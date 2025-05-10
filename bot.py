@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
+keep_alive()
 
 bot_token = os.getenv("DISCORD_TOKEN")
 print(f"token: {bot_token}")
