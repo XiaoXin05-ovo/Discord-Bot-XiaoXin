@@ -1,0 +1,5 @@
+python-dotenv
+discord.py
+
+flask
+py-cord
